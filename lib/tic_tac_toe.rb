@@ -114,5 +114,5 @@ class TicTacToe
   end
 end
 
-#game = TicTacToe.new
-#binding.pry
+game = TicTacToe.new
+binding.pry
